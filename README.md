@@ -8,7 +8,7 @@ tui đã làm xong C vs R trong CRUD rồi, ông làm bên UD nữa là ok.
 có add sẵn swagger luôn r
 ông cứ add cái table này vô db nào trong máy ông cũng đc nha:
   
-  CREATE TABLE `demodb`.`tbl_customers` (
+  CREATE TABLE `demodb`.`customer` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `full_name` VARCHAR(50) NOT NULL,
   `email` VARCHAR(50) NOT NULL,
